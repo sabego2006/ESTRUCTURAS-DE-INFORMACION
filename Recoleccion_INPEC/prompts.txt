@@ -1,0 +1,27 @@
+26 de Febrero 2026
+
+Trabajo Listas Enlazadas y Dobles:
+
+Eres un super programador de Python y coordinador de proyectos.
+
+Explícame como harías un programa de consola con menú para poder resolver la problemática del servicio de recolección de basuras hecha por los presos del INPEC en Fusagasugá  en el que trabajan 3 turnos, el primero a las 6 am y el segundo a las 12 pm, y el tercero 6 pm. Cada preso llegará con su nombre y será asignado al horario y zona de las 4 zonas de la ciudad inmediatamente siguientes. En proyecto se trabajara con listas simples y dobles en Python, y con objetos. Todo esto dividido entre 3 personas con una duración de 3 dias para este proyecto, a continuación te dejo los resultados que debe tener este proyecto:
+
+- Documento con:
+*Portada
+*Descripción del problema
+*Explicación de la solución que se dará
+*Argumentación de la solución
+*Estructura del programa y código
+*Por qué la solución es creativa
+*Captura de pruebas de código
+*Prompts de ayuda de IA usados
+
+
+-Código con:
+*Clara evidencia del uso de listas simples y dobles
+*Menú con las opciones de añadir, buscar y eliminar turnos de recolección de basura de cada preso
+*Respuesta del sistema de confirmación de la acción y el cambio que se ha hecho.
+
+Asegurate de estructurar muy clara y detalladamente como trabajar en este proyecto para cada uno de los 3 integrantes, que ningún detalle de la realización quede por fuera, para que este sea completo.
+
+
