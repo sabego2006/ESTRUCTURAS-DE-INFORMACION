@@ -67,7 +67,7 @@ class ListaDoble:
                 if actual == self.cabeza and actual.siguiente is None:
                     self.cabeza = None
                     self.cola = None
-                    print(f"✓ Preso {nombre} eliminado correctamente")
+                    print(f"\n ✓ Preso {nombre} eliminado correctamente")
 
                 elif actual == self.cabeza:
                     self.cabeza = actual.siguiente
@@ -88,7 +88,7 @@ class ListaDoble:
 
             actual = actual.siguiente
 
-        print(f" No se encontró al preso '{nombre}' para eliminar")
+        print(f"\n No se encontró al preso '{nombre}' para eliminar")
 
     def mostrar(self):
         if self.cabeza is None:
@@ -108,3 +108,8 @@ class ListaDoble:
             contador += 1
 
         print(f"Total: {contador - 1} presos")
+
+#lista = ListaDoble()
+#p1 = Preso("Juan", "6:00 AM", "Zona Norte")
+#lista.insertar(p1)
+#lista.mostrar()
